@@ -3,7 +3,7 @@
 Frontend engineer building fast, secure web products with Angular, React, Next.js, TypeScript and three.js. Based in Chennai, open to relocation and remote work worldwide.
 
 **Portfolio:** [kishore-theiveekan.vercel.app](https://kishore-theiveekan.vercel.app)
-**LinkedIn:** [kishore-theiveekan](https://www.linkedin.com/in/kishore-theiveekan-3a39bb23b)
+**LinkedIn:** [kishore-theiveekan](https://www.linkedin.com/in/kishore-theiveekan)
 
 ## What I work on
 
