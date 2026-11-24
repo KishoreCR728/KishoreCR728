@@ -1,6 +1,6 @@
 # Kishore Theiveekan
 
-Frontend engineer building fast, secure web products with Angular, React, Next.js, TypeScript and three.js. Based in Chennai, open to relocation worldwide.
+Frontend engineer building fast, secure web products with Angular, React, Next.js, TypeScript and three.js. Based in Chennai, India.
 
 **Portfolio:** [kishore-theiveekan.vercel.app](https://kishore-theiveekan.vercel.app)
 **LinkedIn:** [kishore-theiveekan](https://www.linkedin.com/in/kishore-theiveekan)
